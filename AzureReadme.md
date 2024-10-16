@@ -1,6 +1,6 @@
 # Azure
 
-## Web App
+## Web App-Task
 
 ![alt text](image.png)
 
@@ -16,9 +16,14 @@
 
 ![alt text](image-6.png)
 
-## Container Registory
+
+
+
+## Container Registory-Task
 
 ![alt text](image-7.png)
+
+![alt text](image-15.png)
 
 ![alt text](image-9.png)
 

@@ -110,3 +110,24 @@
 -   now paste the script on your machine to view files.
 
 ![alt text](image-40.png)
+
+### Allowing only acces from Vnet users
+
+-   First create service endpoint
+
+![alt text](image-41.png)
+
+-   now go to storage account section
+
+![alt text](image-42.png)
+
+-   Configure and add Vnet
+
+![alt text](image-43.png)
+
+#### Creating Private Vnet Endpoint
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+

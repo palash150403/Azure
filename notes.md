@@ -131,3 +131,24 @@
 
 ![alt text](image-45.png)
 
+
+
+## RBAC and Account Mangment
+
+### How to cerate a user
+
+-   first go to microsoft Enfra ID
+
+![alt text](image-46.png)
+
+-   then create a user
+
+![alt text](image-47.png)
+
+-   Whilw creating you can assign roles or grouops
+
+![alt text](image-48.png)
+
+-   user successfully created 
+
+![alt text](image-49.png)

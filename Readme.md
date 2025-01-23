@@ -1,4 +1,52 @@
-# Azure Notes
+# AZ-104 Notes
+
+## Virtual Machines
+
+#### Resource Group
+-   It is a logic grouping of resources.
+
+#### VM Architecture
+
+![alt text](image-50.png)
+
+-   When VM is cerated :-
+    -   VM
+    -   OS Disk (127 GiB)
+    -   Network Interface
+    -   Public IP
+    -   Network security Group
+    -   Virtual Network (VNet)
+
+    are created along with VM.
+
+-   AZ allows to scale the size of existing virtual machine.
+
+#### OS Disk
+-   You can attach new OS Disk or a Driver Disk to your VM. This will we added as a additional storage driver.
+
+-   If you deallocate your VM then the data stored in tmp stored will also be removed. But if the data is stored in a extenally attached drive then data will persist.
+
+-   You can take snapshot of OS Disk and then, You can create a new OS Disk based on that snapshot and then you can attach that newly created OS Disk to another VM.
+
+-   We can deattach the existing OS disk of a VM and can attach it to another VM.
+
+#### Disk Encryption Set
+-   It is used to create your own encryption key and use that key to encrypt your Disk.
+This encryption key is stored in KeyVault.
+
+#### Custom script extension
+-   Used to execute prewritten scripts that are executed when VM starts.
+
+-   Steps:-
+    -   First create a Storage account.
+    -   Then create a container in it.
+    -   Then upload your script over there.
+    -   Now, while creating your VM in Advanced section Install extensiion over there configure your script.
+
+#### Cloud Init
+-   It also same as custome script, but here the script is pasted in advanced section while the creation proccess of VM.
+
+
 
 ## DNS for VM's
 

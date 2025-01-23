@@ -83,3 +83,17 @@
 
 ![alt text](image-19.png)
 ![alt text](image-20.png)
+
+## Creating Azure Repo
+
+![alt text](image-21.png)
+![alt text](image-22.png)
+
+## Pushing files on Repo
+
+![alt text](image-23.png)
+
+#### CLick on generate git credentials
+
+![alt text](image-24.png)
+![alt text](image-25.png)

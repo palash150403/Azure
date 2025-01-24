@@ -47,6 +47,8 @@ This encryption key is stored in KeyVault.
 -   It also same as custome script, but here the script is pasted in advanced section while the creation proccess of VM.
 
 
+#### Avaibility Sets
+-   Here VM's are launced in a set and this Vm's are logically grouped.
 
 ## DNS for VM's
 

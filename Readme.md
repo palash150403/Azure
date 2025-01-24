@@ -50,6 +50,23 @@ This encryption key is stored in KeyVault.
 #### Avaibility Sets
 -   Here VM's are launced in a set and this Vm's are logically grouped.
 
+![alt text](image-51.png)
+
+
+#### Availability Zones Review
+
+-   Each Availability zone is a unique physical location in an Azure region. Each zone comprises of one or more data centers
+
+-   You can be guaranteed an availability of 99.99% for your virtual machines.
+
+
+#### Scale Set
+
+-   Used to automate the scaling of VM's according to the load and requirmnet.
+Can be done on 2 basis 
+-   Manual Scaling
+-   Custome Autoscale (Uses scale Condition)
+
 ## DNS for VM's
 
 -   Create a VM
